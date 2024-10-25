@@ -2948,6 +2948,9 @@ http://223.244.26.190:8082/tvb%E7%BF%A1%E7%BF%A0.%E7%9B%97%E6%BA%90%E8%80%85%E6%
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" provider="AKTV" group-title="港·澳·台",翡翠台
 http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8『线路2』
 
+#EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/美亚电影.png" group-title="港·澳·台",美亚电影
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/明珠台.png" group-title="港·澳·台",明珠台
 P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/明珠台.png" group-title="港·澳·台",明珠台
