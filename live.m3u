@@ -8,5 +8,21 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR�
 
 
 🎞港·澳·台
-#EXTINF:-1 tvg-id="1" tvg-name="华丽翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="央视频道",CCTV1
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="28 AI 智慧賽馬" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/28 AI 智慧賽馬.png" group-title="港·澳·台",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="华丽翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华丽翡翠台.png" group-title="港·澳·台",华丽翡翠台
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="亚洲武侠" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲武侠.png" group-title="港·澳·台",亚洲武侠
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB生活台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVB生活台.png" group-title="港·澳·台",TVB生活台
+http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB星河" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVB星河.png" group-title="港·澳·台",TVB星河
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$LR•IPV4『线路1』
+
+🎞越南电视台
+#EXTINF:-1 tvg-id="1" tvg-name="越南电视台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/越南电视台.png" group-title="越南电视台",越南电视台
+https://proxy.lepidus.me/https://raw.githubusercontent.com/Love4vn/Test/refs/heads/main/VTV.m3u$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="hubsport" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/hubsport.png" group-title="越南电视台",hubsport
+https://proxy.lepidus.me/https://raw.githubusercontent.com/Love4vn/Test/refs/heads/main/hubsport.m3u$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="1IPTVCO" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/hubsport.png" group-title="越南电视台",1IPTVCO
+https://proxy.lepidus.me/https://raw.githubusercontent.com/Love4vn/Test/refs/heads/main/1IPTVCO.m3u.m3u$LR•IPV4『线路1』
