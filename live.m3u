@@ -10,6 +10,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR�
 🎞港·澳·台
 #EXTINF:-1 tvg-id="1" tvg-name="28 AI 智慧賽馬" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/28 AI 智慧賽馬.png" group-title="港·澳·台",28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER 18台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/myTV SUPER 18台.png" group-title="港·澳·台",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8$LR•IPV4『线路1』
+
 #EXTINF:-1 tvg-id="1" tvg-name="华丽翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华丽翡翠台.png" group-title="港·澳·台",华丽翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="亚洲武侠" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲武侠.png" group-title="港·澳·台",亚洲武侠
