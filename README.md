@@ -2,4 +2,4 @@
 自用TVbox源
 
 ---
-直播链接：[live.m3u](https://tvbox.lepidus.me/live.,3u)
+直播链接：[live.m3u](https://tvbox.lepidus.me/live.m3u)
